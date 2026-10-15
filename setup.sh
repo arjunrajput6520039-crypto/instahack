@@ -1,4 +1,4 @@
-# Setup script - InstaHack
+# Setup script - InstaHacksachin__dancer__001
 # The setup script for the InstaHack tool. This is a python script that automates the installation of the
 # required utilities and modules, and all the important required dependencies for the tool.
 
